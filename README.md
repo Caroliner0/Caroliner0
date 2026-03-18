@@ -7,7 +7,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 #
-<p align="center">Olá, Mundo! Me chamo Caroline, sou estudante de Análise e Desenvolvimento de Sistemas e uma eterna curiosa da Tecnologia!
+<p align="center">Olá, Mundo! Me chamo Caroline, sou consultora de riscos de tecnologia apaixonada por GRC!
 
 #
 <div>
